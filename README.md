@@ -1,3 +1,5 @@
+Retrofit非常适合于restful url格式的请求，相对okhttp更多使用注解的方式提供功能
+
 Retrofit
 ========
 
